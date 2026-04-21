@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="action_search">Search Tasks</string>
+    <string name="action_delete_completed">Clear Completed</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_description">Description</string>
+    <string name="save_task">Save Task</string>
+    <string name="priority">Priority</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="no_tasks">No tasks yet! Tap + to add one.</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="undo">Undo</string>
+</resources>
